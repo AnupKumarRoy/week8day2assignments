@@ -1,0 +1,56 @@
+1.B/W Waterfall and Agile methodology:
+Waterfall methodology:
+* It follows a linear sequential process.
+* It is rigid and step by step method.
+* Customer interaction is very less.
+* Test plan is viewed after complete development.
+Agile methodology:
+* It follows a incremental approach.
+* It is flexible and aggressive method.
+* It has a high customer interaction.
+* Test plan is reviewed after each sprint.
+
+2.Phases in SDLC:
+* Requirement.
+* Design.
+* Implementation
+* Testing
+* Deployment.
+* Maintenace
+
+3.Core values in Agile:
+* Individuals and interactions over processes and tools.
+* Working software over comprehensive documentations.
+* Customer collabrations over contract negotiation.
+* Responding to changes over following a plan.
+
+4.Scrum meetings or scrum ceremonies:
+* Story grooming.
+* Sprint planning.
+* Daily standup meeting.
+* Sprint review.
+* Retrospective.
+
+5.Uses of reprospective meeting:
+* It is used to evaluate past working cycle. 
+* What went well,keep doing this things.
+* What could be improve,its ok but could be better.
+* what went badly,dont do this again.
+
+6.Different role in scrum:
+* Product owner.
+* Development team.
+* Scrum master.
+
+7.B/W product backlog and sprint backlog:
+Product backlog:
+* It contains all the features of the product.
+* Product owner owns the product backlog.
+* Specific to the project goals.
+* Remians until the project is completed.
+
+Sprint backlog:
+* It contains only the current sprint.
+* Development team and scrum master owns the sprint backlog.
+* Specific to the sprint.
+* End when the sprint ends.
